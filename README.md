@@ -1,4 +1,4 @@
 jumpstart-labs-blogger
 ======================
 
-for the odin project rails section
+for the odin project rails section: Project Rails
